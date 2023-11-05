@@ -1,0 +1,15 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: Katalog pośredni (Debug\) zawiera pliki udostępnione z innego projektu (SFMLx32-0.vcxproj). Może to spowodować niepoprawne zachowanie podczas oczyszczania i ponownej kompilacji.
+  flappy.cpp
+C:\GLP\FlappyBird\flappy.cpp(111,8): warning C4244: "argument": konwersja z "T" do "float", możliwa utrata danych
+          with
+          [
+              T=unsigned int
+          ]
+C:\GLP\FlappyBird\flappy.cpp(110,8): warning C4244: "argument": konwersja z "T" do "float", możliwa utrata danych
+          with
+          [
+              T=unsigned int
+          ]
+C:\GLP\FlappyBird\flappy.cpp(201,30): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+C:\GLP\FlappyBird\flappy.cpp(233,15): warning C4305: "+=": obcięcie z "double" do "float"
+  SFMLx32-0.vcxproj -> C:\GLP\FlappyBird\Debug\FlappyBird.exe

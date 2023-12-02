@@ -9,7 +9,7 @@ FlappyBird::FlappyBird() {
 	window->setFramerateLimit(60);
 	window->setPosition(sf::Vector2i(0, 0));
 
-	font.loadFromFile("flappy_resources/font/FlappyBirdRegular-9Pq0.ttf");
+	font.loadFromFile("flappy_resources/font/FlappyFont.ttf");
 
 	// setting texts
 
